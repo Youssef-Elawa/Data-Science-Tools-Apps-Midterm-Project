@@ -4,6 +4,8 @@ End-to-end machine learning project for the Kaggle **House Prices: Advanced Regr
 
 This project focuses on predicting residential sale prices using feature engineering, preprocessing pipelines, hyperparameter optimization, and ensemble modeling. Multiple model families were explored, including gradient boosting, linear models, kernel methods, and tabular foundation models.
 
+📖 Detailed methodology available in the Wiki
+
 ## Project Goal
 
 The goal of this project is to maximize predictive performance on the Kaggle House Prices competition leaderboard.
