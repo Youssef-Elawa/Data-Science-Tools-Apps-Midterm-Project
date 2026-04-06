@@ -150,5 +150,7 @@ Potential next steps:
 Youssef Ahmed
 
 If you'd like, you can also connect with me here:
-- LinkedIn: linkedin.com/in/youssef-ahmed-e
-- Kaggle: kaggle.com/youssefahmedelawa
+
+* LinkedIn: [linkedin.com/in/youssef-ahmed-e](https://linkedin.com/in/youssef-ahmed-e)
+* Kaggle: [kaggle.com/youssefahmedelawa](https://kaggle.com/youssefahmedelawa)
+
