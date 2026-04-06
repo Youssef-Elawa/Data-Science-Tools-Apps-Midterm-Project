@@ -1,6 +1,4 @@
-# Data-Science-Tools-Apps-Midterm-Project
-
-# House Prices Prediction - Kaggle ML Project
+# Data-Science-Tools-Apps-Midterm-Project - Kaggle ML Project
 
 End-to-end machine learning project for the Kaggle **House Prices: Advanced Regression Techniques** competition.
 
