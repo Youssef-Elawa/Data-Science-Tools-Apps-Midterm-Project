@@ -13,11 +13,6 @@ The goal of this project is to maximize predictive performance on the Kaggle Hou
 Competition link:  
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-## Notebook
-
-Google Colab notebook:  
-https://colab.research.google.com/drive/1gAzrhPjHsguqu3XrorwUcL8EyL7dF1iM?usp=sharing
-
 ## Models Used
 
 The project experiments with several model families:
